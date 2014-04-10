@@ -1,0 +1,38 @@
+wp2014s_hw1
+===========
+html{
+  background-color: #FCEA6A;
+  font-family: 微軟正黑體;
+  margin:0 auto;
+  text-align: center;
+
+}
+
+.menu{
+margin-bottom:20px;
+}
+body h1{
+  color: darkred; 
+  letter-spacing: 1px;
+
+
+}
+
+.nav{
+margin-top:20px;
+background-color: white;
+}
+
+.banner img{
+  width: 75% ;
+  position: relative;
+   margin-top: 20px;
+ 
+}
+
+footer {
+
+    width: 100%;
+
+}
+
